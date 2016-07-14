@@ -17,3 +17,7 @@ Branches help when you need multiple versions of the same project.
 How do the diagrams help you visualize the branch structure?
 
 Diagrams can help you figure out the differences between each branch, as well as the reachability of each commit.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging is a new commit with changed code from both branches.
